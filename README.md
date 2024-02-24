@@ -3,7 +3,7 @@
 <h1>
     <a href="https://kemilyn1227.github.io/portifolio/">
      <img align="center" alt="" width="36px" src="assets/archery_6796448.png"></a>
-     <span>Kemilyn Carato</span>
+     <span>Kemilyn Carato ✨</span>
 </h1>
 
 <p>Sou uma desenvolvedora front-end de Araraquara,Sp Brasil. Sempre fui uma pessoa apaixonada por tecnologia e jogos e no final do ano de 2022 comecei a estudar mais profundamente sobre front-end. Hoje em dia faço faculdade de Ánalise e desenvolvimento de sistemas na <a href="https://descomplica.com.br/faculdade/?utm_source=google&utm_medium=cpc&utm_campaign=psq-institucional-uee-ongoing-sitelink&gad_source=1&gclid=Cj0KCQiAxOauBhCaARIsAEbUSQT3PBfdzDhO5--Ajt5dnlv5sXxhCGz-7T2BKDDz3KaT3uEnFZt5wGIaAiZ-EALw_wcB">Descomplica faculdade digital</a>, e aguardo pela minha primeira oportunidade no mundo da técnologia.💻 </p>

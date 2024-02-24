@@ -17,7 +17,7 @@
 
 <div>
 
-<img src="assets/github-user-contribution (1).svg" alt="">
+<img src="assets/github-user-contribution (2).svg" alt="">
 <h3 >Habilidades:</h3>
 
 

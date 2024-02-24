@@ -47,7 +47,7 @@
   - Icon flecha <a href="https://br.freepik.com/icone/tiro-arco_6796448#fromView=search&page=12&position=49&uuid=f3b00dda-ef76-4ec7-abba-afee06efb271">Ícone de Alejandro</a></a><br>
   - modelo <a href="https://github.com/elidianaandrade/elidianaandrade/blob/main/README.md?plain=1">elidianandrade</a>
  
-  <div align="right">Feito com carinho 💜 por <a href="https://github.com/elidianaandrade">Kemilyn</a>.</div>
+  <div align="right">Feito com carinho 💜 por <a href="https://github.com/elidianaandrade">Kemilyn.</a></div>
 
 </details>
 

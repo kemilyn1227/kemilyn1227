@@ -6,9 +6,11 @@
      <span>Kemilyn Tinta</span>
 </h1>
 
-<p>Sou uma desenvolvedora front-end de Araraquara,Sp Brasil. Sempre fui uma pessoa apaixonada por tecnologia e jogos e no final do ano de 2022 comecei a estudar mais profundamente sobre front-end. Hoje em dia faço faculdade de Ánalise e desenvolvimento de sistemas na <a href="https://descomplica.com.br/faculdade/?utm_source=google&utm_medium=cpc&utm_campaign=psq-institucional-uee-ongoing-sitelink&gad_source=1&gclid=Cj0KCQiAxOauBhCaARIsAEbUSQT3PBfdzDhO5--Ajt5dnlv5sXxhCGz-7T2BKDDz3KaT3uEnFZt5wGIaAiZ-EALw_wcB">Descomplica faculdade digital</a>, e aguardo pela minha primeira oportunidade no mundo da tecnologia.💻 </p>
+<p>Sou desenvolvedora Front-end, formada em Análise e Desenvolvimento de Sistemas pela <a href="https://descomplica.com.br/faculdade/">Descomplica Faculdade Digital</a>. Sou apaixonada por tecnologia, desenvolvimento web e jogos, e comecei a me aprofundar em programação no final de 2022.</p>
 
-<p>Gosto de animes , jogos ,livros, música e também muita dança. Sigo evoluindo e aprendendo cada dia mais.👾</p>
+<p>Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento web e full-stack, buscando minha primeira oportunidade profissional na área de tecnologia. 💻</p>
+
+<p>Além da tecnologia, gosto de animes, jogos, livros e música. 🎮📚🎵</p>
 
 <h3 >Conecte-se comigo !</h3>
 

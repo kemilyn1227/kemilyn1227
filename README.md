@@ -12,6 +12,8 @@
 
 <h3 >Conecte-se comigo !</h3>
 
+<p>Site principal <a href="https://kemilyn1227.github.io/portifolio/">clique aqui</a></p>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kemilyntinta/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/kim_kemilyn/)
 
